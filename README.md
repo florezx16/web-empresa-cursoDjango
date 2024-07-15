@@ -1,2 +1,2 @@
 # web-empresa-cursoDjango
-Repositorio para almacenar le proyecto final
+Repositorio para almacenar el proyecto final
